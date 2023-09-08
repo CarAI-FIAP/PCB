@@ -1,7 +1,7 @@
 # PCB
 Placa em PCB para centralizar as conexões. Projeto em KiCAD
 
-![image]([https://github.com/CarAI-FIAP/PCB/assets/77159499/6e720d57-0715-48e3-a5b5-9697d1c53059](https://github.com/CarAI-FIAP/PCB/blob/main/Renders/2.png?raw=true)https://github.com/CarAI-FIAP/PCB/blob/main/Renders/1.png?raw=true)
-![image]([https://github.com/CarAI-FIAP/PCB/assets/77159499/6e720d57-0715-48e3-a5b5-9697d1c53059](https://github.com/CarAI-FIAP/PCB/blob/main/Renders/2.png?raw=true)https://github.com/CarAI-FIAP/PCB/blob/main/Renders/2.png?raw=true)
-![image]([https://github.com/CarAI-FIAP/PCB/assets/77159499/6e720d57-0715-48e3-a5b5-9697d1c53059](https://github.com/CarAI-FIAP/PCB/blob/main/Renders/2.png?raw=true)https://github.com/CarAI-FIAP/PCB/blob/main/Renders/3.png?raw=true)
-![image]([https://github.com/CarAI-FIAP/PCB/assets/77159499/6e720d57-0715-48e3-a5b5-9697d1c53059](https://github.com/CarAI-FIAP/PCB/blob/main/Renders/2.png?raw=true)https://github.com/CarAI-FIAP/PCB/blob/main/Renders/4.png?raw=true)
+![Vista frontal da superficie superior](https://github.com/CarAI-FIAP/PCB/assets/77159499/cdadcfbe-ccdb-44bd-94c1-10f16a529357)
+![Vista frontal da superficie inferior](https://github.com/CarAI-FIAP/PCB/assets/77159499/f52aa14c-181d-4bf5-9e30-88e0b6ee8559)
+![Vista traseira da superficie superior](https://github.com/CarAI-FIAP/PCB/assets/77159499/1a0e0764-8f87-48a2-aeb3-d079a9bcfcb8)
+![Vista superior da superficie superior](https://github.com/CarAI-FIAP/PCB/assets/77159499/43d7a87c-da90-474c-b8bf-f516aacde7ff)
